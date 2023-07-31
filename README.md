@@ -1,4 +1,4 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
+![RFGTHYYYJ_page-0001 (2)](https://github.com/Shilo-05/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/139841664/8736a88a-be92-40a7-a485-3dd5643de663)# EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![![RFGTHYYYJ_page-0001 (2)](https://github.com/Shilo-05/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/139841664/1379b9db-cda6-468d-873b-876422a3e20b)
+
 
 ## RESULT:
 Thus, the cut section for solid model is created.
